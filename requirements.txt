@@ -1,0 +1,5 @@
+sphinx>=4.2.0,<8.0.0
+recommonmark
+docutils
+sphinx-rtd-theme
+sphinxcontrib-bibtex
