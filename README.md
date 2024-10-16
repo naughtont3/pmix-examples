@@ -1,5 +1,6 @@
 # PMIx Examples
-Testing repository for sphynx based documentation.
+
+Testing repository for Sphinx based documentation.
 
 
 ReadTheDocs Note
