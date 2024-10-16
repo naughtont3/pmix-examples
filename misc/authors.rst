@@ -247,11 +247,11 @@ Insert a citation to an item contained in the bibliography.
 
   .. code-block:: rst
 
-     The IEEE glossary of term is useful :cite:`ieee:iso42010`.
+     The IEEE glossary of term is useful :cite:`pmix:standard:5.0`.
 
   Rendered example:
 
-     The IEEE glossary of term is useful :cite:`ieee:iso42010`.
+     The IEEE glossary of term is useful :cite:`pmix:standard:5.0`.
 
 Reference to Glossary Terms
 ---------------------------
