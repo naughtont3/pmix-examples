@@ -16,9 +16,17 @@ This is a repository containing examples for use cases with PMIx.
 
    introduction
    about
-
    terms
    bibliography
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Use Case Examples
+
+   client/index
+   tool/index
+   server/index
+
 
 .. toctree::
    :maxdepth: 1
