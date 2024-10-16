@@ -1,8 +1,11 @@
 .. _pmixexamples:client:
 
-Client Examples
-===============
+PMIx Client Examples
+====================
 
+.. toctree::
+    :maxdepth: 1
+    :caption: Client Use Cases
 
- - [Business Card Exchange](client/business-card/index)
+    business-card/index
 
