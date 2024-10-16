@@ -24,7 +24,7 @@ This is a repository containing examples for use cases with PMIx.
    :caption: Use Case Examples
 
    client/index
-   tools/index
+   tool/index
    server/index
 
 
