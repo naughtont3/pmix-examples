@@ -1,14 +1,8 @@
-.. _pmixexamples:about:
-
-About
-#####
+# About
 
 The project could have several members and we would list them here.
 
-.. _pmixexamples:about:team:
-
-Team
-----
+## Team
 
 - Project team:
 
