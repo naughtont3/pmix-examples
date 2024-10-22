@@ -1,0 +1,11 @@
+site_name: PMIx Examples
+nav:
+  - Home: index.md
+  - About: about.md
+  - Use Case Examples:
+    #    - Introduction: introduction.md
+    - PMIx Client Examples:
+      - Index: client/index.md
+      - Business card exchange: client/business-card/index.md
+  - Document Maintenance: misc/authors.md
+theme: readthedocs
