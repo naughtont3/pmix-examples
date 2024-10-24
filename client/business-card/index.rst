@@ -8,6 +8,7 @@ Intro text here...
 Highlevel walk-through of code example...
 
 .. code-block:: C
+   :emphasize-lines: 2,5
 
     void c_hello(){
         printf("Hello World!\n");
