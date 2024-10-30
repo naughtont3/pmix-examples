@@ -5,6 +5,27 @@ Business Card Exchange
 
 Intro text here...
 
+Setup
+-----
+
+* Prereq: OpenPMIx library and PMIx server (e.g., PRRTE)
+
+Build/install PMIx library and server
+(e.g., `OpenPMIx <https://github.com/openpmix/openpmix>`_ and
+`PRRTE <https://github.com/openpmix/prrte>`_)
+
+Compile and run example (e.g., using prrte+openpmix)
+
+.. code-block:: shell
+
+    cd client/business-card/src/
+    make
+    prterun -np 4 ./ipv4_bc_use_case
+
+
+Walk-Through
+------------
+
 Highlevel walk-through of code example...
 
 .. code-block:: C
