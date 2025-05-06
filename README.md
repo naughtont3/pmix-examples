@@ -33,6 +33,19 @@ Building Docs Manually
    (venv) shell$ open _build/index.html
    ```
 
+Building Examples
+-----------------
+
+ *  `make examples` --  Builds source code examples (assumes openpmix/prte prereqs)
+
+
+   ```
+   shell$ make examples
+   make -f Makefile.code
+   make[1]: Nothing to be done for `default'.
+   shell$
+   ```
+
 
 ReadTheDocs Note
 ----------------

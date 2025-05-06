@@ -1,8 +1,8 @@
 .. _pmixexamples:server:
 
-Server Examples
-===============
+PMIx Server Examples
+====================
 
-Intro text here...
+.. todo:: Server examples to be added here.
 
 

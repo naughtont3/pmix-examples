@@ -1,4 +1,4 @@
-.. _pmixexamples:misc:author-guide:
+.. _pmixexamples:other:misc:author-guide:
 
 Document Authors Guide
 ======================
@@ -69,18 +69,18 @@ are unnumbered.
 
   .. code-block:: rst
 
-    .. _pmixexamples:misc:author-guide:
+    .. _pmixexamples:other:misc:author-guide:
 
     Document Authors Guide
     ======================
 
   .. code-block:: rst
 
-    The Author guide is in :ref:`pmixexamples:misc:author-guide`.
+    The Author guide is in :ref:`pmixexamples:other:misc:author-guide`.
 
   Rendered example:
 
-    The Author guide is in :ref:`pmixexamples:misc:author-guide`.
+    The Author guide is in :ref:`pmixexamples:other:misc:author-guide`.
 
 
 Call-out Boxes
@@ -149,7 +149,7 @@ of content.
 
   .. code-block:: rst
 
-     .. _pmixexamples:misc:author-guide:
+     .. _pmixexamples:other:misc:author-guide:
 
 
   All labels (sub-sections, figures, tables, etc.) in this file will have
@@ -158,7 +158,7 @@ of content.
 
   .. code-block:: rst
 
-          fig:pmixexamples:misc:author-guide:dummy
+          fig:pmixexamples:other:misc:author-guide:dummy
 
 
   .. note:: We recommend using a short prefix for Figures sand Tables to aid recognition
@@ -199,12 +199,12 @@ Cross-reference to Figures in the local document by number.
 
     .. code-block:: rst
 
-       In :ref:`Dummy <fig:pmixexamples:misc:author-guide:dummy>` we have a dummy figure.
+       In :ref:`Dummy <fig:pmixexamples:other:misc:author-guide:dummy>` we have a dummy figure.
 
-       In :ref:`fig:pmixexamples:misc:author-guide:dummy` we have a dummy figure.
+       In :ref:`fig:pmixexamples:other:misc:author-guide:dummy` we have a dummy figure.
 
        .. figure:: images/dummyfig.png
-          :name:  fig:pmixexamples:misc:author-guide:dummy
+          :name:  fig:pmixexamples:other:misc:author-guide:dummy
           :align: center
           :width: 400px
 
@@ -212,12 +212,12 @@ Cross-reference to Figures in the local document by number.
 
   Rendered example:
 
-    In :ref:`Dummy <fig:pmixexamples:misc:author-guide:dummy>` we have a dummy figure.
+    In :ref:`Dummy <fig:pmixexamples:other:misc:author-guide:dummy>` we have a dummy figure.
 
-    In :ref:`fig:pmixexamples:misc:author-guide:dummy` we have a dummy figure.
+    In :ref:`fig:pmixexamples:other:misc:author-guide:dummy` we have a dummy figure.
 
     .. figure:: images/dummyfig.png
-       :name:  fig:pmixexamples:misc:author-guide:dummy
+       :name:  fig:pmixexamples:other:misc:author-guide:dummy
        :align: center
        :width: 400px
 
@@ -290,11 +290,11 @@ Create a hyperlink to document in local files using ``:doc:``.
 
   .. code-block:: rst
 
-     You should read the :doc:`Author Guide </misc/authors>`.
+     You should read the :doc:`Author Guide </other/misc/authors>`.
 
   Rendered example:
 
-     You should read the :doc:`Author Guide </misc/authors>`.
+     You should read the :doc:`Author Guide </other/misc/authors>`.
 
   .. note:: The page path is relative to top dir in the git tree.
 
@@ -314,20 +314,20 @@ Create a hyperlink a URL.
 
   .. code-block:: rst
 
-     `Oak Ridge National Laboratory <https://www.ornl.gov/>`_
+     `Process Management Interface for Exascale (PMIx) <https://pmix.org/>`_
 
   Rendered example:
 
-     `Oak Ridge National Laboratory <https://www.ornl.gov/>`_
+     `Process Management Interface for Exascale (PMIx) <https://pmix.org/>`_
 
   .. note:: The the trailing underscore (``_``) is important.
 
-Custom ORNL Footer
-------------------
+Custom Footer
+-------------
 
 A custom footer is added to all pages. This is taken from the
 file ``_templates/footer.html``, specifically the part marked
-with the comment ``Custom ORNL Footer``.
+with the comment ``Custom PMIx``.
 
 An example for Glossary Terms
 -----------------------------
