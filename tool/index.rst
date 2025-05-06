@@ -1,8 +1,8 @@
 .. _pmixexamples:tool:
 
-Tool Examples
-=============
+PMIx Tool Examples
+==================
 
-Intro text here...
+.. todo:: Tool examples to be added here.
 
 

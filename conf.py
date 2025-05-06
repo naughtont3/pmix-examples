@@ -39,7 +39,7 @@ release = 'v0.1'   # 'v0.9', 'v1.0', etc.
 import sphinx_rtd_theme
 extensions = ['recommonmark', "sphinx_rtd_theme", 'sphinxcontrib.bibtex',
               'sphinx.ext.todo']
-bibtex_bibfiles = ['bibliography.bib']
+bibtex_bibfiles = ['other/bibliography.bib']
 bibtex_default_style = 'unsrt'
 bibtex_reference_style = 'label'
 
