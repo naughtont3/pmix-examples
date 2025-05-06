@@ -5,9 +5,6 @@
 PMIx Examples Documentation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. caution::
-   UNDER CONSTRUCTION -- this is not official and incomplete
-
 This is a repository containing examples for use cases with PMIx.
 
 .. toctree::
@@ -16,9 +13,17 @@ This is a repository containing examples for use cases with PMIx.
 
    introduction
    about
-
    terms
    bibliography
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Use Case Examples
+
+   client/index
+   tool/index
+   server/index
+
 
 .. toctree::
    :maxdepth: 1
