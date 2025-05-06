@@ -1,7 +1,7 @@
 .. _terms:
 
-Acronym and Terminology Definitions
-===================================
+Terminology and Acronyms
+========================
 
 .. glossary::
 

@@ -5,9 +5,6 @@
 PMIx Examples Documentation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. caution::
-   UNDER CONSTRUCTION -- this is not official and incomplete
-
 This is a repository containing examples for use cases with PMIx.
 
 .. toctree::
