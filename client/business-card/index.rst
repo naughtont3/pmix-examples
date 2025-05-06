@@ -42,10 +42,20 @@ Highlevel walk-through of code example...
 
 This is text after.
 
-Source
-------
- - `Makefile <src/Makefile>`_
- - `<src/ipv4_bc_use_case.c>`_
- - KenRs GitHub Gist ipv4_bc_use_case.c `<https://gist.githubusercontent.com/raffenet/9b41d212b610c18b61e6fb4dd3973acc/raw/ad636d8cbd2f2293420cd992fc75393630810797/ipv4_bc_use_case.c>`_
+Full Source Listing
+-------------------
 
+.. note:: We may want to remove this but including for completeness and to
+   have an example in case you want to have full listing.
+
+.. literalinclude:: src/ipv4_bc_use_case.c
+   :language: c
+   :linenos:
+   :caption: Business card exchange example 'ipv4_bc_use_case.c'
+
+Sources
+-------
+ - :download:`Makefile <src/Makefile>`
+ - :download:`Download the source <src/ipv4_bc_use_case.c>`
+ - KenRs GitHub Gist ipv4_bc_use_case.c `<https://gist.githubusercontent.com/raffenet/9b41d212b610c18b61e6fb4dd3973acc/raw/ad636d8cbd2f2293420cd992fc75393630810797/ipv4_bc_use_case.c>`_
 
