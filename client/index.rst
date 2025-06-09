@@ -3,5 +3,9 @@
 PMIx Client Examples
 ====================
 
-.. todo:: Client examples to be added here.
+.. toctree::
+    :maxdepth: 1
+    :caption: Client Use Cases
+
+    business-card/index
 

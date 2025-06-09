@@ -5,5 +5,7 @@ LDFLAGS=
 default: client
 
 client:
+	(cd client/business-card/src  && make)
 
 clean:
+	(cd client/business-card/src  && make clean)
