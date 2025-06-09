@@ -3,7 +3,9 @@
 Business Card Exchange
 ======================
 
-Intro text here...
+This example shows the use of Client interfaces that are used
+during the bootstrap phase of the parallel application, where
+the *business card* connection information of the processes is exchanged.
 
 Setup
 -----
